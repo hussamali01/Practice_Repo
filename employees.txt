@@ -1,5 +1,5 @@
-Name : Ali
-Age : 22
-Profession : Unemployed Engineer
-City : Hyderabad
-Country : India
+Name : Ali.
+Age : 22.
+Profession : Unemployed Engineer.
+City : Hyderabad.
+Country : India.
